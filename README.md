@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=linweiqian" /> </div>
