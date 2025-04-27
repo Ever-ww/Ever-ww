@@ -1,4 +1,7 @@
 ## 欢迎来到Ever的主页 👋
+- 🔭 I’m a student
+- 🌱 I’m currently learning LLM
+- 📫 How to reach me: 1093769043@qq.com
 
 <!--
 **Ever-ww/Ever-ww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Visitor Count](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4ac595079b3e495c81bbd930d93f5861~tplv-k3u1fbpfcp-zoom-1.image)
+
+
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=linweiqian" /> </div>
