@@ -1,4 +1,4 @@
-## Hi there 👋
+## 欢迎来到Ever的主页 👋
 
 <!--
 **Ever-ww/Ever-ww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
